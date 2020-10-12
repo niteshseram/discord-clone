@@ -2,7 +2,7 @@ import firebase from "firebase";
 
 const firebaseConfig = {
   apiKey: "AIzaSyCWQK95Rxg99Xvm2_p7kLk5OAyXZAnFUGk",
-  authDomain: "discord-clone-c51ae.firebaseapp.com",
+  authDomain: "https://www.niteshseram.me",
   databaseURL: "https://discord-clone-c51ae.firebaseio.com",
   projectId: "discord-clone-c51ae",
   storageBucket: "discord-clone-c51ae.appspot.com",
